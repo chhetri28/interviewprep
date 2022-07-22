@@ -22,9 +22,9 @@ void solve()
 int main()
 {
 ios_base::sync_with_stdio(false);cin.tie(NULL);
-f
+
 #ifndef ONLINE_JUDGE
-reopen("input.txt", "r", stdin);
+freopen("input.txt", "r", stdin);
 freopen("error.txt", "w", stderr);
 freopen("output.txt", "w", stdout);
 #endif
