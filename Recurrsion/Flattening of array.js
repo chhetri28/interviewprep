@@ -12,4 +12,5 @@ const flatten=(arr)=>{
     return res;
 }
 
+
 console.log(flatten(aa));
